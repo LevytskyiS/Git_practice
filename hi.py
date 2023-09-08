@@ -1,2 +1,1 @@
-a = "Hello"
-b = "World"
+c = "Hello World!"
